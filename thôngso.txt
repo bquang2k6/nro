@@ -1,0 +1,9 @@
+
+[{"item":1332,"soluong":1,"Option":
+[{"option":50,"chiso":30}, // sức đánh
+{"option":77,"chiso":40},  // hp
+{"option":103,"chiso":40}, // KI
+{"option":14,"chiso":5},   // chí mạng
+{"option":101,"chiso":500}, // %tnsm
+{"option":100,"chiso":100}, // vàng từ qoái
+{"option":30,"chiso":0}]},  // khong the gg
